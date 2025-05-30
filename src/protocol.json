@@ -16,14 +16,14 @@
 			"action": "https://hdsp.co/share/681baa3bb7ef4f17b820ccf6"
 		},
 		"button_br": {
-			"text": "Sports | Rehab Course",
-			"icon": {"url":"/assets/030-yoga.png", "tint":false},
-			"action": "https://hdsp.co/share/6839e11d7419d4b1882761d7"
-		},
-		"button_bl": {
 			"text": "More About ACL Recovery",
 			"icon": {"url":"/assets/025-medicine.png", "tint":false},
 			"action": ""
+		},
+		"button_bl": {
+			"text": "Sports | Rehab Course",
+			"icon": {"url":"/assets/030-yoga.png", "tint":false},
+			"action": "https://hdsp.co/share/6839e11d7419d4b1882761d7"
 		}
 	}
 }
