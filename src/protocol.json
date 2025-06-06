@@ -3,7 +3,7 @@
 		"title": "Mind in Motion",
 
 		"banner_text": "Calm the mind. Move the body. Reclaim your recovery.",
-		"banner_icon": {"url":"/assets/015-hand.png","tint":false},
+		"banner_icon": {"url":"/assets/logo1.png","tint":false},
 
 		"button_tl": {
 			"text": "Meditation Basics",
