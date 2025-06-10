@@ -1,0 +1,14 @@
+{
+    "header_text": "Once Per Week – Random Days that the Previous Questions Were Not Sent",
+    "elements": [
+		{
+			"type":"Text",
+			"text":"How would you rate your anxiety related to your knee health today? (0% to 100%, with 0% being no anxiety and 100% being extreme anxiety)"
+		},
+        {
+            "type": "Slider",
+			"min": 0,
+			"max": 100
+        }
+    ]
+}

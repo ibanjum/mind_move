@@ -1,0 +1,18 @@
+{
+    "header_text": "Daily Questions in the Morning (Participant Chooses Timing) - Both Questions Each Time",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Have you participated in any sports in the last 24 hours?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "0::Yes",
+                "1::No"
+            ],
+            "selectable": true,
+            "multi_select": false
+        }
+    ]
+}

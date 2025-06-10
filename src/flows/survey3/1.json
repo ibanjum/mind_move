@@ -1,0 +1,9 @@
+{
+    "header_text": "Daily Questions in the Morning (Participant Chooses Timing) - Both Questions Each Time",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Good morning!"
+        }
+    ]
+}

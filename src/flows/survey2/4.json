@@ -1,0 +1,14 @@
+{
+    "header_text": "Once Per Week – Random Days that the Previous Questions Were Not Sent",
+    "elements": [
+		{
+			"type":"Text",
+			"text":"How would you rate your knee symptoms today? (0% to 100%, with 100% being no symptoms at all)"
+		},
+        {
+            "type": "Slider",
+			"min": 0,
+			"max": 100
+        }
+    ]
+}

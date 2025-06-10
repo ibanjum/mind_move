@@ -1,0 +1,14 @@
+{
+    "header_text": "Once Per Week – Random Days that the Previous Questions Were Not Sent",
+    "elements": [
+		{
+			"type":"Text",
+			"text":"How would you rate your fear of reinjuring your knee today? (0% to 100%, with 0% being no fear and 100% being extreme fear)"
+		},
+        {
+            "type": "Slider",
+			"min": 0,
+			"max": 100
+        }
+    ]
+}
