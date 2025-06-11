@@ -25,5 +25,11 @@
 			"icon": {"url":"/assets/030-yoga.png", "tint":false},
 			"action": "https://hdsp.co/share/6839e11d7419d4b1882761d7"
 		}
-	}
+	},
+
+	"menu": [
+		{ "text": "Survey 1", "action": "flow://flows/survey1" },
+		{ "text": "Survey 2", "action": "flow://flows/survey2" },
+		{ "text": "Survey 3", "action": "flow://flows/survey3" }
+	]
 }
