@@ -3,7 +3,7 @@
     "elements": [
 		{
 			"type":"Text",
-			"text":"How would you rate your anxiety related to your knee health today? (0% to 100%, with 0% being no anxiety and 100% being extreme anxiety)"
+			"text":"How would you rate your fear of reinjuring your knee today? (0% to 100%, with 0% being no fear and 100% being extreme fear)"
 		},
         {
             "type": "Slider",

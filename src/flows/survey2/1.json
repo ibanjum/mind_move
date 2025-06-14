@@ -1,14 +1,8 @@
 {
-    "header_text": "Once Per Week – Random Days that the Previous Questions Were Not Sent",
     "elements": [
 		{
 			"type":"Text",
-			"text":"How would you rate your confidence in your knee today to handle the demands of your physical activities? (0% to 100%, with 100% being completely confident)"
+			"text":"Please answer the following questions about your most recently reconstructed knee."
 		},
-        {
-            "type": "Slider",
-			"min": 0,
-			"max": 100
-        }
     ]
 }

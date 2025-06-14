@@ -1,0 +1,13 @@
+{
+    "elements": [
+		{
+			"type":"Text",
+			"text":"How satisfied are you with your current level of physical activity? (0% to 100, with 0% being not satisfied and 100% being very satisfied)"
+		},
+        {
+            "type": "Slider",
+			"min": 0,
+			"max": 100
+        }
+    ]
+}

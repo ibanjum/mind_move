@@ -1,9 +1,8 @@
 {
-    "header_text": "Twice Per Week - Random Days - Both Questions Each Time",
     "elements": [
 		{
 			"type":"Text",
-			"text":"How would you rate your non-operative knee today as a percentage of normal (0% to 100%, with 100% being normal)"
+			"text":"How would you rate your reconstructed knee today as a percentage of normal (0% to 100%, with 100% being normal)"
 		},
         {
             "type": "Slider",

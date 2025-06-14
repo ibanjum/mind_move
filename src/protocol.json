@@ -3,7 +3,7 @@
 		"title": "Mind in Motion",
 
 		"banner_text": "Calm the mind. Move the body. Reclaim your recovery.",
-		"banner_icon": {"url":"/assets/logo2.png","tint":false},
+		"banner_icon": {"url":"/assets/logo3.png","tint":false},
 
 		"button_tl": {
 			"text": "Meditation Basics",
@@ -28,8 +28,8 @@
 	},
 
 	"menu": [
-		{ "text": "Survey 1", "action": "flow://flows/survey1" },
-		{ "text": "Survey 2", "action": "flow://flows/survey2" },
-		{ "text": "Survey 3", "action": "flow://flows/survey3" }
+		{ "text": "Afternoon 1", "action": "flow://flows/survey1" },
+		{ "text": "Afternoon 2", "action": "flow://flows/survey2" },
+		{ "text": "Morning", "action": "flow://flows/survey3" }
 	]
 }
