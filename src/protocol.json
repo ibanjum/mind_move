@@ -31,7 +31,7 @@
               "tint": false
             },
             "action": "https://hdsp.co/share/681baa3bb7ef4f17b820ccf6",
-            "backgroundcolor": "#1A206AFF",
+            "backgroundcolor": "#1A00E05A",
             "markcompleted": true
           },
           {
@@ -41,7 +41,7 @@
               "tint": false
             },
             "action": "https://hdsp.co/share/6839e11d7419d4b1882761d7",
-            "backgroundcolor": "#1A206AFF",
+            "backgroundcolor": "#1A00C2FF",
             "markcompleted": true
           }
         ]
@@ -56,16 +56,17 @@
               "tint": false
             },
             "action": "",
-            "action": "https://hdsp.co/share/681b905c676f43eaa24fb490",
-            "backgroundcolor": "#1A206AFF",
+            "backgroundcolor": "#1A5C2FDA",
             "markcompleted": true
           },
           {
             "text": "Contact",
-            "action": "",
+            "icon": {
+              "url": "/assets/support.png",
+              "tint": false
+            },
             "action": "navepage://Contact",
-            "backgroundcolor": "#1A206AFF",
-            "markcompleted": true
+            "backgroundcolor": "#1A00C2FF"
           }
         ]
       }
