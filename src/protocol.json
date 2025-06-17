@@ -65,7 +65,7 @@
               "url": "/assets/support.png",
               "tint": false
             },
-            "action": "navepage://Contact",
+            "action": "navpage://Contact",
             "backgroundcolor": "#1A00C2FF"
           }
         ]
