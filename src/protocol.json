@@ -83,7 +83,7 @@
   },
   "goals": [
     {
-      "type": "stepgoal",
+      "type": "steps",
       "occurence": 10,
       "starting": 1000,
       "percentile": 1.1
