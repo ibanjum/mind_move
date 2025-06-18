@@ -71,5 +71,13 @@
         ]
       }
     ]
-  }
+  },
+  "goals": [
+    {
+      "type": "steps",
+      "occurence": 10,
+      "starting": 1000,
+      "percentile": 10
+    }
+  ]
 }
