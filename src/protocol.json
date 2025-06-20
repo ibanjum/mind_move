@@ -87,6 +87,11 @@
       "occurence": 10,
       "starting": 1000,
       "percentile": 1.1
+    },
+    {
+      "type": "calories",
+      "occurence": 1,
+      "starting": 300
     }
   ]
 }
