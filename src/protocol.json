@@ -12,6 +12,9 @@
         }
       },
       {
+        "type": "goals"
+      },
+      {
         "type": "carousel",
         "actions": [
           {
@@ -67,15 +70,6 @@
             },
             "action": "navpage://Contact",
             "backgroundcolor": "#1A00C2FF"
-          },
-          {
-            "text": "Goals",
-            "icon": {
-              "url": "/assets/goal.png",
-              "tint": false
-            },
-            "action": "navpage://Goals",
-            "backgroundcolor": "#1A00E05A"
           }
         ]
       }
