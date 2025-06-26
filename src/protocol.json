@@ -1,7 +1,7 @@
 {
   "home": {
     "title": "Mind in Motion",
-    "elements": [
+    "element": { "type": "list", "elements": [
       {
         "type": "alert",
         "title": "Mind in Motion",
@@ -86,6 +86,6 @@
           }
         ]
       }
-    ]
+    ] }
   }
 }
