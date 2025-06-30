@@ -1,91 +1,99 @@
 {
   "home": {
     "title": "Mind in Motion",
-    "element": { "type": "list", "elements": [
-      {
-        "type": "alert",
-        "title": "Mind in Motion",
-        "message": "Calm the mind. Move the body. Reclaim your recovery.",
-        "icon": {
-          "url": "/assets/logo3.png",
-          "tint": false
+    "element": {
+      "type": "list",
+      "elements": [
+        {
+          "type": "alert",
+          "title": "Mind in Motion",
+          "message": "Calm the mind. Move the body. Reclaim your recovery.",
+          "icon": {
+            "url": "/assets/logo3.png",
+            "tint": false
+          }
+        },
+        {
+          "type": "goals",
+          "goals": [
+            {
+              "type": "simple",
+              "field": "steps",
+              "initial": 1000
+            },
+            {
+              "type": "average",
+              "field": "calories",
+              "days": 7
+            },
+            {
+              "type": "percentile",
+              "field": "active",
+              "days": 7,
+              "percentile": .6
+            }
+          ]
+        },
+        {
+          "type": "carousel",
+          "actions": [
+            {
+              "text": "Meditation Basics",
+              "icon": {
+                "url": "/assets/001-medicine.png",
+                "tint": false
+              },
+              "action": "https://hdsp.co/share/681b905c676f43eaa24fb490",
+              "backgroundcolor": "#1A206AFF",
+              "markcompleted": true
+            },
+            {
+              "text": "Sports | Recovery Course",
+              "icon": {
+                "url": "/assets/020-person.png",
+                "tint": false
+              },
+              "action": "https://hdsp.co/share/681baa3bb7ef4f17b820ccf6",
+              "backgroundcolor": "#1A00E05A",
+              "markcompleted": true
+            },
+            {
+              "text": "Sports | Rehab Course",
+              "icon": {
+                "url": "/assets/030-yoga.png",
+                "tint": false
+              },
+              "action": "https://hdsp.co/share/6839e11d7419d4b1882761d7",
+              "backgroundcolor": "#1A00C2FF",
+              "markcompleted": true
+            }
+          ]
+        },
+        {
+          "type": "tiles",
+          "actions": [
+            {
+              "text": "More About ACL Recovery",
+              "icon": {
+                "url": "/assets/025-medicine.png",
+                "tint": false
+              },
+              "action": "",
+              "backgroundcolor": "#1A5C2FDA",
+              "markcompleted": true
+            },
+            {
+              "text": "Contact",
+              "icon": {
+                "url": "/assets/support.png",
+                "tint": false
+              },
+              "action": "navpage://Contact",
+              "backgroundcolor": "#1A00C2FF"
+            }
+          ]
         }
-      },
-      {
-        "type": "goals",
-        "goals": [
-          {
-            "type": "steps",
-            "occurence": 2,
-            "starting": 1000,
-            "percentile": 1.1
-          },
-          {
-            "type": "calories",
-            "occurence": 1,
-            "starting": 300
-          }
-        ]
-      },
-      {
-        "type": "carousel",
-        "actions": [
-          {
-            "text": "Meditation Basics",
-            "icon": {
-              "url": "/assets/001-medicine.png",
-              "tint": false
-            },
-            "action": "https://hdsp.co/share/681b905c676f43eaa24fb490",
-            "backgroundcolor": "#1A206AFF",
-            "markcompleted": true
-          },
-          {
-            "text": "Sports | Recovery Course",
-            "icon": {
-              "url": "/assets/020-person.png",
-              "tint": false
-            },
-            "action": "https://hdsp.co/share/681baa3bb7ef4f17b820ccf6",
-            "backgroundcolor": "#1A00E05A",
-            "markcompleted": true
-          },
-          {
-            "text": "Sports | Rehab Course",
-            "icon": {
-              "url": "/assets/030-yoga.png",
-              "tint": false
-            },
-            "action": "https://hdsp.co/share/6839e11d7419d4b1882761d7",
-            "backgroundcolor": "#1A00C2FF",
-            "markcompleted": true
-          }
-        ]
-      },
-      {
-        "type": "tiles",
-        "actions": [
-          {
-            "text": "More About ACL Recovery",
-            "icon": {
-              "url": "/assets/025-medicine.png",
-              "tint": false
-            },
-            "action": "",
-            "backgroundcolor": "#1A5C2FDA",
-            "markcompleted": true
-          },
-          {
-            "text": "Contact",
-            "icon": {
-              "url": "/assets/support.png",
-              "tint": false
-            },
-            "action": "navpage://Contact",
-            "backgroundcolor": "#1A00C2FF"
-          }
-        ]
-      }
-    ] }
+      ]
+    }
   }
 }
