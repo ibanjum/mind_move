@@ -22,14 +22,10 @@
               "initial": 1000
             },
             {
-              "type": "average",
-              "field": "calories",
-              "days": 7
-            },
-            {
               "type": "percentile",
+              "show-loading": true,
               "field": "active",
-              "days": 7,
+              "days": 10,
               "percentile": .6
             }
           ]
