@@ -17,11 +17,6 @@
           "type": "goals",
           "goals": [
             {
-              "type": "simple",
-              "field": "steps",
-              "initial": 1000
-            },
-            {
               "type": "percentile",
               "show-loading": true,
               "field": "active",
