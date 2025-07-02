@@ -17,6 +17,7 @@
           "type": "goals",
           "goals": [
             {
+              "service": "oura",
               "type": "percentile",
               "show-loading": true,
               "field": "active",
