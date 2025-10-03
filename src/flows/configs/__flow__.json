@@ -1,0 +1,9 @@
+{
+    "mode": "select",
+    "column_count": 2,
+    "save_selection": true,
+    "text": "Choose when you'd like to receive alerts so we can notify you at the most convenient time. You can update this anytime in Settings.",
+    "selections": {
+        "Set Notification Times": "random_time"
+    }
+}
